@@ -1,0 +1,2 @@
+# Credit-Score-Prediction-using-Ensemble-Learning-Random-Forest-XGBoost-and-CatBoost-Classifier-
+The Credit Score Prediction project aims to classify customers into appropriate credit score ranges based on various financial and personal attributes. This classification helps financial institutions assess creditworthiness and make informed lending decisions, ultimately contributing to better risk management.
